@@ -1,0 +1,4 @@
+seaborn
+plotly.express
+matplotlib.pyplot
+streamlit
